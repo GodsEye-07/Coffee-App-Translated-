@@ -15,6 +15,8 @@ class ViewController: UIViewController {
     @IBOutlet weak var waterTxt: UITextField!
     @IBOutlet weak var ratioTxt: UITextField!
     @IBOutlet weak var coffeeTxt: UITextField!
+  
+    var variabke = 0.0
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -30,9 +32,6 @@ class ViewController: UIViewController {
         
         let wateramount = Float(waterTxt.text!)
         let ratioamount = Float(ratioTxt.text!)
-        
-        amount = CGFloat(wateramount!/ratioamount!)
-        
         coffeeTxt.text = String(describing: amount)
         
     }

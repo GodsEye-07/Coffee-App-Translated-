@@ -516,6 +516,7 @@
 				2A4BBCE21EF01CE5003BFE49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A4BBCE31EF01CE5003BFE49 /* Build configuration list for PBXNativeTarget "Coffee AppTests" */ = {
 			isa = XCConfigurationList;
@@ -524,6 +525,7 @@
 				2A4BBCE51EF01CE5003BFE49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		2A4BBCE61EF01CE5003BFE49 /* Build configuration list for PBXNativeTarget "Coffee AppUITests" */ = {
 			isa = XCConfigurationList;
@@ -532,6 +534,7 @@
 				2A4BBCE81EF01CE5003BFE49 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
